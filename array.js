@@ -12,7 +12,7 @@ let str = doublePrices.forEach(e => {
 
 // filter test for values passing a test, returns a new array of values that passes
 
-let ages = [18, 23, 26, 5,8, 7, 4];
+let ages = [18, 23, 26, 5,8, 7,6];
 
 let underEighteen = ages.filter((age) => {
     return age < 18;
